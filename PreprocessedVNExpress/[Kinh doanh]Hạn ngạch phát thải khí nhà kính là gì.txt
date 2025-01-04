@@ -1,0 +1,27 @@
+Số câu: 35
+Hạn ngạch là lượng khí nhà kính quy đổi sang CO2 mà cơ sở được cơ quan quản lý cho phép phát thải trong một khoảng thời gian nhất định.
+
+Hạn ngạch (emission allowances) là một trong hai tài sản chính trên thị trường carbon và là tài sản giao dịch chủ đạo của thị trường carbon bắt buộc, thường là Hệ thống giao dịch khí thải (ETS) của các quốc gia.
+Các ETS trên thế giới thường vận hành theo cơ chế "Giới hạn và Giao dịch" (Cap-and-Trade). Cụ thể, chính phủ sẽ đặt ra "hạn mức" (cap) là số lượng tối đa của hạn ngạch phát thải khí nhà kính trong một khoảng thời gian xác định. Từ "hạn mức" này, chính phủ phân bổ chúng thành các hạn ngạch cho các cơ sở.
+Cơ sở chỉ được phép phát thải trong hạn ngạch phát thải khí đã nhận. Nếu cần phát thải vượt mức, họ phải lên ETS mua thêm hạn ngạch từ các cơ sở thừa.
+Ai cấp hạn ngạch phát thải khí nhà kính?
+Trong ETS, cơ quan chịu trách nhiệm phân bổ hạn ngạch phát thải khí nhà kính thường là chính phủ hoặc cơ quan quản lý môi trường. Ví dụ, tại EU ETS, cơ quan phân bổ là Ủy ban châu Âu (EC) cùng với các chính phủ quốc gia thành viên.
+EC thiết lập tổng hạn ngạch phát thải hàng năm cho toàn khối và các quốc gia thành viên sẽ chịu trách nhiệm quản lý và cấp hạn ngạch cho các doanh nghiệp tại nước mình theo các quy định của EU ETS.
+Với ETS tại các nước khác, việc phân bổ hạn ngạch có thể do chính phủ hoặc bộ phụ trách về môi trường, cơ quan quản lý khí thải. Ví dụ, Bộ Môi trường Nhật Bản cấp hạn ngạch các chương trình ETS địa phương. Hay như Ủy ban Cải cách và Phát triển Quốc gia (NDRC) Trung Quốc là đơn vị cấp hạn ngạch cho China ETS.
+Quy trình cấp hạn ngạch phát thải ra sao?
+Đầu tiên, quốc gia cần xác định hạn mức phát thải của mình trong chu kỳ. Việc đặt ra hạn mức sẽ do chính phủ và các cơ quan chuyên môn xác định, chủ yếu xoay quanh 3 mục tiêu chính là:.
+- Chính sách khí hậu của quốc gia: một hoặc nhiều mục tiêu/cam kết giảm phát thải của chính phủ cần thực hiện, xu hướng trong các lĩnh vực liên quan, cân bằng hạn mức với phát thải từ các lĩnh vực không tham gia ETS.
+- Tiềm năng giảm phát thải kỹ thuật: các hướng phát triển công nghệ, các kịch bản cho từng lĩnh vực, tiềm năng giảm phát thải cao.
+- Tiềm năng kinh tế khi giảm phát thải: chi phí giảm phát thải trong các lĩnh vực khác nhau, chu kỳ đầu tư và rút vốn.
+Thứ hai, tiến hành kiểm kê phát thải khí nhà kính quốc gia để có cơ sở phân bổ ra hạn ngạch hợp lý cho từng đối tượng cụ thể.
+Thứ ba, cơ quan quản lý sẽ tiến hành phân bổ hạn ngạch miễn phí hoặc đấu giá.
+Với phân bổ miễn phí, hạn ngạch được cấp cho các doanh nghiệp dựa trên các tiêu chí như mức phát thải lịch sử, quy mô sản xuất hoặc hiệu suất sử dụng năng lượng. Về cơ bản, lượng phát thải của cơ sở được xác định sau khi kiểm kê khí nhà kính sẽ được nhân với hệ số điều chỉnh phát thải để ra hạn ngạch.
+Với phân bổ qua đấu giá, một phần hoặc toàn bộ hạn ngạch sẽ được bán qua các phiên đấu giá công khai trên ETS. Doanh nghiệp phải mua hạn ngạch cần thiết dựa trên nhu cầu phát thải của mình.
+Cấp hạn ngạch phát thải tại Việt Nam thế nào?
+Theo Đề án phát triển thị trường carbon do Bộ Tài nguyên và Môi trường chủ trì xây dựng cùng với các bộ ngành liên quan, giai đoạn từ năm 2025-2028, hạn ngạch phát thải khí nhà kính được phân bố đối với một số lĩnh vực phát thải lớn.
+Dự kiến trong giai đoạn thí điểm này, có khoảng 100 cơ sở được phân bổ hạn ngạch miễn phí, thuộc lĩnh vực phát thải lớn như nhiệt điện, sắt, thép, xi măng.
+Từ 2029, phần lớn hạn ngạch phát thải vẫn được phân bổ miễn phí, phần còn lại được thông qua đấu giá. Chủ thể được phân bổ là các cơ sở phát thải khí nhà kính thuộc danh mục cơ sở phải kiểm kê khí nhà kính do Thủ tướng ban hành.
+Theo Quyết định số 01/2022 của Thủ tướng Chính phủ, danh mục phải kiểm kê khí nhà kính có 1,912 cơ sở, thuộc 6 lĩnh vực: năng lượng, giao thông, xây dựng, quá trình công nghiệp, nông - lâm - sử dụng đất, chất thải.
+Sáu lĩnh vực này tương ứng thuộc phạm vi quản lý của các bộ: Công Thương, Giao thông vận tải, Xây dựng, Nông nghiệp và Phát triển nông thôn, Tài nguyên và Môi trường. Trong đó, riêng Bộ Công Thương quản lý chủ yếu, chiếm đến 1,662 cơ sở.
+Các bộ có trách nhiệm thực hiện kiểm kê khí nhà kính, xây dựng kế hoạch và thực hiện giảm nhẹ phát thải khí nhà kính, đo đạc, báo cáo và thẩm định giảm nhẹ phát thải khí nhà kính, phân bổ hạn ngạch phát thải khí nhà kính cho các lĩnh vực trong phạm vi quản lý theo quy định.
+Bộ Tài nguyên và Môi trường chủ trì, phối hợp với các bộ quản lý lĩnh vực và UBND cấp tỉnh rà soát danh mục, cơ sở phát thải khí nhà kính phải thực hiện kiểm kê khí nhà kính trước ngày 31/12 hằng năm để trình Thủ tướng quyết định cập nhật danh mục định kỳ hai năm một lần.

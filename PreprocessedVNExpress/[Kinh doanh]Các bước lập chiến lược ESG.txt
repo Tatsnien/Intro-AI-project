@@ -1,0 +1,38 @@
+Số câu: 50
+Có 6 bước cơ bản để xây dựng một chiến lược ESG hiệu quả cho doanh nghiệp, khuyến nghị bởi Ủy ban châu Âu (EC).
+
+R là khái niệm chỉ những hoạt động đóng góp cho cộng đồng, môi trường, phát triển bền vững... thể hiện trách nhiệm xã hội của doanh nghiệp.
+ESG (Environmental, Social, and Governance) là một khung đánh giá nhằm đo lường tính bền vững và trách nhiệm đối với môi trường, xã hội của doanh nghiệp.
+Theo EC, chiến lược ESG là quá trình hoạch định sự phát triển của doanh nghiệp dựa trên ba trụ cột cơ bản - E (Environmental - Môi trường), S (Social - Xã hội), và G (Governance - Quản trị).
+Dưới đây là 6 bước để xây dựng một chiến lược ESG hiệu quả:.
+Hoạch định chiến lược ESG tập trung sự phát triển của công ty dựa trên ba trụ cột chính: E (Environmental) - Các vấn đề về môi trường; S (Social) - các vấn đề xã hội và G (Governance) - các vấn đề liên quan đến quản trị doanh nghiệp.
+Khi xây dựng, cần đảm bảo tính hiệu quả, tức chiến lược này cần phù hợp với chiến lược kinh doanh dài hạn của công ty. Doanh nghiệp có thể tham khảo khung tiêu chuẩn khi hoạch định chiến lược gồm:.
+- Mục tiêu phát triển bền vững (SDGs): Gồm 17 mục tiêu do Liên Hợp Quốc đưa ra nhằm thúc đẩy hòa bình và thịnh vượng cho toàn thế giới.
+- Tiêu chuẩn SASB: nêu các thách thức ESG liên quan đến 77 ngành công nghiệp khác nhau.
+- Nguyên tắc hướng dẫn của Liên Hợp Quốc về Kinh doanh và Quyền con người.
+Bước 2: Nghiên cứu tác động.
+Việc phát triển chiến lược ESG bắt đầu từ việc đánh giá tác động của doanh nghiệp đối với con người và hành tinh. Mục tiêu là xác định các lĩnh vực hoạt động có rủi ro nghiêm trọng đối với con người và môi trường.
+Rủi ro được chia thành ba nhóm: môi trường, cộng đồng và nhân viên. Mỗi nhóm sẽ bao gồm các chỉ số dựa trên dữ liệu đánh giá rủi ro theo khu vực địa lý, ngành và hàng hóa. Dữ liệu định lượng và định tính từ các nguồn công khai có thể được sử dụng để đánh giá mức độ nghiêm trọng và khả năng xảy ra của từng rủi ro.
+Bước 3: Đánh giá tính trọng yếu.
+Đánh giá tính trọng yếu (Materiality Assessment) giúp doanh nghiệp xác định các ưu tiên ESG phù hợp nhất. Trước hết, cần xác định các bên liên quan như nhà đầu tư, nhà cung cấp, cộng đồng địa phương. Sau đó, chọn ra các chỉ số ESG đặc biệt quan trọng đối với từng nhóm đối tượng.
+Việc hiểu rõ các chỉ số ESG quan trọng đối với từng bên liên quan giúp doanh nghiệp xây dựng chiến lược và truyền đạt thông tin một cách hiệu quả, đồng thời đáp ứng hoặc thậm chí vượt qua kỳ vọng của họ.
+Bước 4: Xác định điểm khởi đầu.
+Không biết rõ hiện trạng của bản thân thì khó có thể đo lường sự tiến bộ. Do đó, việc tiến hành đo lường ban đầu để xác định tình hình doanh nghiệp và đánh giá mức độ trưởng thành của ESG rất quan trọng. Ngoài ra, cần thu thập thông tin về hoạt động ESG của các đối thủ cạnh tranh để có cái nhìn tổng quan.
+Bước 5: Đặt ra các mục tiêu ESG.
+Mục tiêu có thể bao gồm duy trì hiệu suất tốt, cải thiện các điểm yếu và tối ưu hóa tổng thể. Các mục tiêu ESG không mang tính phổ quát mà cần được tùy chỉnh theo ngành nghề cụ thể và mức độ tác động của doanh nghiệp lên môi trường.
+- Giảm tổng lượng phát thải carbon, giảm thiểu rác thải và sử dụng nước.
+- Chuyển đổi sang năng lượng bền vững và quản lý chuỗi cung ứng.
+- Đóng góp vào việc thu hẹp khoảng cách tiền lương, cải thiện phúc lợi và điều kiện làm việc cho nhân viên.
+- Hỗ trợ các hoạt động xã hội và nguồn cung ứng nguyên liệu có đạo đức.
+- Tăng tính minh bạch trong cấu trúc hội đồng quản trị, đa dạng trong ra quyết định.
+- Quản lý bảo mật dữ liệu, thực hành kế toán lành mạnh và đạo đức kinh doanh.
+Bước 6: Tạo kế hoạch ESG.
+Xây dựng kế hoạch phát triển ESG chi tiết với các mục tiêu ngắn hạn và dài hạn, ví dụ như trong một năm, 5 năm hoặc 10 năm. Phân chia các mục tiêu lớn thành các bước nhỏ, có khả năng đạt được để tăng tính khả thi.
+Bước 7: Triển khai và đo lường.
+Sau khi xác định trạng thái hiện tại và lập lộ trình cụ thể, doanh nghiệp cần bắt đầu triển khai các mục tiêu ESG. Đặt ra các chỉ số hiệu suất chính (KPI) để đánh giá tiến độ.
+Việc triển khai hiệu quả đòi hỏi xác định nơi thu thập dữ liệu để báo cáo. Dữ liệu nằm ở tất cả các cấp của tổ chức, bởi ESG bao gồm các vấn đề từ lao động, quản trị đến biến đổi khí hậu, phá rừng, quản lý nước, quản lý rác thải và chuỗi cung ứng. Sau thu thập là công đoạn lập báo cáo ESG.
+Các tổ chức như Global Reporting Initiative (GRI), Sustainability Accounting Standards Board (SASB), Task Force on Climate-related Financial Disclosures (TCFD) và International Integrated Reporting Framework (IRF) cung cấp các khung báo cáo ESG chi tiết mà doanh nghiệp có thể áp dụng.
+Bước 8: Công bố báo cáo ESG định kỳ.
+Lập kế hoạch báo cáo định kỳ hàng năm cho các bên liên quan trọng dựa trên các khung tiêu chuẩn và công cụ đánh giá bên ngoài. Trong báo cáo đầu tiên, cần nêu rõ các chính sách và chương trình hiện có, đồng thời đánh giá mức độ tiến bộ.
+Báo cáo nên bao gồm các chỉ số cụ thể theo từng tổ chức hoặc ngành và đánh giá mức độ cam kết, tiến độ đối với các chỉ số bền vững chính.
+Doanh nghiệp cần sử dụng các kênh truyền thông như website, thông cáo báo chí và mạng xã hội để đảm bảo tất cả các bên liên quan đều có thể tiếp cận báo cáo dễ dàng. Sau khi công bố, doanh nghiệp nên tổ chức các cuộc họp với các bên liên quan để đánh giá các khoảng trống trong chiến lược ESG và báo cáo, xác định các lĩnh vực cần cải thiện và xác lập các cam kết trong tương lai.
